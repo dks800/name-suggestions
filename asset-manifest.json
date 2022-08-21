@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-suggestions/static/css/main.f42215fb.css",
+    "main.js": "/name-suggestions/static/js/main.1162fe92.js",
+    "index.html": "/name-suggestions/index.html",
+    "main.f42215fb.css.map": "/name-suggestions/static/css/main.f42215fb.css.map",
+    "main.1162fe92.js.map": "/name-suggestions/static/js/main.1162fe92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42215fb.css",
+    "static/js/main.1162fe92.js"
+  ]
+}
